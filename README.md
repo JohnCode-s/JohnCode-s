@@ -158,6 +158,6 @@ Here are some ideas to get you started:
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=JohnCode-s)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=JohnCode_s)
 
 <br />
