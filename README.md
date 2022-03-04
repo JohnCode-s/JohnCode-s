@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JohnCode-s/JohnCode-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hello dude 😎, Welcome 🍻🍻! This is</h2>
+<h2 align="center">Hello dude 👋😎, Welcome 🍻🍻! This is</h2>
 <h1 align="center">Ifeanyichukwu John</h1>
 <h4 align="center">You can call me JohnCode 😉.</h4>
 
